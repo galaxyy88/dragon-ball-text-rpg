@@ -1,0 +1,10 @@
+window.CHARACTERS = {
+  goku: { name: "Goku", level: 5, powerLevel: 416, description: "Um lutador de coração aberto que enxerga rivais como oportunidades para crescer.", personality: "Otimista, direto e movido pelo desafio.", techniques: ["kamehameha", "solar_flare"], relationship: 5, glyph: "悟" },
+  piccolo: { name: "Piccolo", level: 6, powerLevel: 408, description: "Um estrategista disciplinado que escolhe suas palavras com o mesmo cuidado que seus golpes.", personality: "Reservado, atento e exigente.", techniques: ["special_beam_cannon", "masenko"], relationship: 0, glyph: "魔" },
+  gohan: { name: "Gohan", level: 2, powerLevel: 95, description: "Uma criança gentil cuja coragem aparece quando alguém precisa dela.", personality: "Curioso e sensível.", techniques: ["masenko"], relationship: 0, glyph: "悟" },
+  krillin: { name: "Kuririn", level: 4, powerLevel: 206, description: "Um artista marcial engenhoso, rápido para perceber uma abertura.", personality: "Prático, leal e espirituoso.", techniques: ["destructo_disc", "solar_flare"], relationship: 0, glyph: "林" },
+  vegeta: { name: "Vegeta", level: 8, powerLevel: 18000, description: "Um príncipe Saiyajin que mede cada encontro como uma disputa por supremacia.", personality: "Orgulhoso, intenso e implacável.", techniques: ["galick_gun", "big_bang_attack"], relationship: -10, glyph: "王" },
+  roshi: { name: "Mestre Kame", level: 3, powerLevel: 139, description: "Mestre veterano que transforma fundamentos simples em uma base duradoura.", personality: "Excêntrico, paciente durante o treino.", techniques: ["kamehameha"], relationship: 0, glyph: "亀" },
+  tien: { name: "Tenshinhan", level: 5, powerLevel: 250, description: "Um guerreiro de foco absoluto que nunca desperdiça movimento.", personality: "Sério e disciplinado.", techniques: ["solar_flare"], relationship: 0, glyph: "天" },
+  yamcha: { name: "Yamcha", level: 4, powerLevel: 177, description: "Um combatente ágil que conhece bem os riscos de uma luta desigual.", personality: "Sociável e cauteloso.", techniques: [], relationship: 0, glyph: "狼" }
+};
